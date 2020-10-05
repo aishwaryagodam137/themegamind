@@ -2,3 +2,4 @@ welcome to mehendi.com
 
 1. arebic
 2.bridal
+3.simple
